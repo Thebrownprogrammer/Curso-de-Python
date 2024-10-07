@@ -98,6 +98,6 @@ def crear_interfaz():
 
     # Ejecución de la ventana
     ventana.mainloop()
-
+#Probando la vinculacion entre github y vscode
 # Ejecutar la interfaz
 crear_interfaz()
